@@ -2,14 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+Next js project build with Newsapi with redux toolkits to manage the state You will need node js installed on your pc to run this project. To launch it on your browser, run this command 'npm run dev' Incase some dependencies doesn't work, run this command 'npm install'
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
